@@ -2,16 +2,17 @@
 
 ## 使用说明
 ### 编译
-'''
+```
+#go mod init main
 go build httpstatus.go
-'''
+```
 
 
 ### 使用
 
-'''
+```
 httpstatus -h example.com  #（域名） 
-'''
+```
 
 
 ### 说明
