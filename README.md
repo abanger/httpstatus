@@ -6,9 +6,12 @@
 #go mod init main
 go build httpstatus.go
 ```
+###
 
+直接下载编译[releases](https://github.com/abanger/httpstatus/releases)
 
 ### 使用
+
 
 ```
 httpstatus -h example.com  #（域名） 
